@@ -1,2 +1,2 @@
 # AutoAndroidPhone
-Use ADB
+Use ADB to control phone
